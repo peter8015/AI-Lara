@@ -1,0 +1,6 @@
+{
+  "name": "Java AI Chat Application",
+  "description": "A clean Java AI Chat Application demonstrating User -> Spring Boot -> LLM API -> Response architecture with Streaming, Structured Output, Token Usage, Error Handling, Retry, and Timeout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
